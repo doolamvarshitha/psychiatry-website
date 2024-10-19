@@ -1,0 +1,19 @@
+{
+  "founderMessage": "At Psychiatry Center, we focus on holistic and personalized mental health treatments.",
+  "services": [
+    "Cognitive Behavioral Therapy",
+    "Psychoanalysis",
+    "Medication Management",
+    "Group Therapy"
+  ],
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "message": "The care and treatment I received were exceptional. The staff is incredibly compassionate."
+    },
+    {
+      "name": "Jane Smith",
+      "message": "This place changed my life. I can't recommend it enough!"
+    }
+  ]
+}
